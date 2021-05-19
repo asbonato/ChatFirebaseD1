@@ -26,7 +26,7 @@
             android:layout_marginStart="4dp"
             android:layout_weight="4">
             <EditText
-                android:id="@+id/mensagemEdotText"
+                android:id="@+id/mensagemEditText"
                 android:hint="@string/digite_sua_mensagem"
                 android:padding="12dp"
                 android:layout_width="match_parent"
